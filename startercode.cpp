@@ -1,5 +1,6 @@
 #include <iostream>
 
 int main(){
-	cout << "Hello World!" << endl;
+	std::cout << "Edited output success?" << std::endl;
+	return 0;
 }
